@@ -5,7 +5,7 @@ salt可能在请求的url里面，或者返回体里面（ios应该就是返回�
 格式 两个值用 & 拼接 例：salt&cookie 如 38dsdsdsdasdasd&c778sdsssfsafasf5454sdfasd7asd5asd5as4d54asd4as5......
 多账号@分割
 变量 kscdkey    对应脚本验证卡密。所有脚本通用
-一天能龟速跑个7-9。列表提现。
+一天能速跑个7-9w。列表提现。安全无黑号。
 一天运行10次
 www.iwzyw.com
 */
