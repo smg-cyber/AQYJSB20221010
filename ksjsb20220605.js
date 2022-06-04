@@ -1,5 +1,5 @@
 /*
-慢手超速版  安卓&ios 自己搜索下载
+慢手超速版  安卓&ios 自己搜索下载 全网走起
 变量：ksurl   需要一个登录salt和xxxx.api_st(就是以前的cookie，但是不要前面的参数名，只要值)，ios和安卓都可以抓到，自己搜索salt。
 salt可能在请求的url里面，或者返回体里面（ios应该就是返回体里面）
 格式 两个值用 & 拼接 例：salt&cookie 如 38dsdsdsdasdasd&c778sdsssfsafasf5454sdfasd7asd5asd5as4d54asd4as5......
